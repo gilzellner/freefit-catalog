@@ -1,0 +1,12 @@
+{
+	"Type": "Studio",
+	"Class Times": [
+		{
+			"Type":"Pilates",
+			"Day": "Tuesday",
+			"Start":20,
+			"End":21
+		}
+	],
+
+}

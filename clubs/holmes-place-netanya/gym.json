@@ -1,0 +1,66 @@
+{
+	"Type": "Gym",
+	"Opening Times":
+	{
+		"Sunday":
+			[
+				{
+					"open": 6,
+					"close": 23
+				}
+			]
+		},
+		"Monday":
+			[
+				{
+					"open": 6,
+					"close": 23
+				}
+			]
+		},
+		"Tuesday":
+			[
+				{
+					"open": 6,
+					"close": 23
+				}
+			]
+		},
+		"Wednesday":
+			[
+				{
+					"open": 6,
+					"close": 23
+				}
+			]
+		},
+		"Thursday":
+			[
+				{
+					"open": 6,
+					"close": 23
+				}
+			]
+		},
+		"Friday":
+			[
+				{
+					"open": 7,
+					"close": 18
+				}
+			]
+		},
+		"Saturday":
+			[
+				{
+					"open": 9,
+					"close": 14
+				},
+				{
+					"open": 20,
+					"close": 23
+				},
+			]
+		},
+	}
+}
